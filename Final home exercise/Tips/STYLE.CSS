@@ -1,0 +1,86 @@
+ /*Global Elements Style */
+ *{
+ 	box-sizing: border-box;
+ 	margin: 0%;
+ 	padding: 0%;
+ }
+
+ /*container class style */
+ container{
+ 	width: 80%;
+ 	margin: auto;
+ 	font-family: 'Lucida sans', 'Lucida sans Regular', 'Lucida Grande', 'Lucida sans Unicode', Geneva, Verdana, sans-serif;
+ 	color: rgb(70,71,70);
+ }
+
+ /*Header Style */
+ Header{
+ 	background-color: green;
+ 	height: 80px;
+ 	color: #fff;
+ 	text-align: right;
+ 	padding: 20px;
+ }
+
+ header span{
+color: orange;
+
+ }
+
+ header h1{
+ 	float: left;
+
+ }
+
+ header ul li{
+ 	display: inline;
+ 	margin: 20px;
+ }
+
+ header li a{
+text-decoration: none;
+color: #fff;
+ }
+
+/*main content style */
+ main{
+margin: 10px;
+ }
+
+ main h2{
+ 	font-size: 3.2em;
+ 	color:black;
+    font-family: 'Times New Roman', Times, serif;
+ }
+
+ main h4{
+ 	font-size: 2.2em;
+ 	margin: 10px 0;
+ }
+
+ table{
+ 	color: BLACK;
+ 	text-decoration-color: red;
+ 	
+ }
+
+  
+
+ p{
+ 	font-size: 1.5em;
+ 	word-spacing: 5px;
+ 	line-height: 30px;
+ }
+
+  
+
+ /* footer style */
+ footer{
+ 	width: 100%;
+     height: 50px;
+     padding: 10px;
+     background-color: green;
+     text-align: center;
+     margin-top: 25px;
+     color: #fff;
+ }
